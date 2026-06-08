@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+*.pt
+*.pth
+main.ipynb
